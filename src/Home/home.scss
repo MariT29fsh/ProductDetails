@@ -1,0 +1,21 @@
+h1{
+    color:rgb(12, 56, 58);
+    text-align: center;
+}
+.box {
+    //padding: 10px;
+    width: 100%;
+    }
+  .box .products-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+   flex-wrap: wrap;
+    padding: 20px;
+    font-family: "Poppins", sans-serif;
+    color: #000;
+    margin: 0px;
+    margin-top: 2;
+    padding: 0px;
+    box-sizing: border-box;
+  }
